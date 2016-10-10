@@ -1,2 +1,2 @@
 # Book-Sales
-Reaching people to purchae my books and review them
+Reaching people to purchase my books and review them
